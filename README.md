@@ -25,9 +25,9 @@ A simple and responsive Todo App built using HTML, CSS, JavaScript, and Bootstra
 ## Project Structure
 
 todo-app/
-│── index.html
-│── style.css
-│── script.js
+- index.html
+- style.css
+-  script.js
 
 ## How to Run the Project
 
